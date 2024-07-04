@@ -22,7 +22,7 @@ The system calculates the total cost of a basket, taking into account product pr
 ## Installation
 
 1. Clone the repository:
-2. Run `index.php`
+2. Run `index.php` using command: `php index.php`
 
 ## Usage
 
