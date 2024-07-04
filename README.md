@@ -38,5 +38,5 @@ The `Basket` class handles the products, delivery costs, and offers. It has the 
 $basket = new Basket($products, $deliveryCost, $offers);
 $basket->add('B01');
 $basket->add('G01');
-echo "Total: $" . $basket->total(); // Expected: $37.85
+echo "Total: $" . $basket->total(); // $37.85
 ```
