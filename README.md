@@ -9,7 +9,7 @@ The system calculates the total cost of a basket, taking into account product pr
 - **Green Widget (G01)**: $24.95
 - **Blue Widget (B01)**: $7.95
 
-## Delivery Charges
+## Delivery Costs
 
 - Orders under $50: $4.95
 - Orders under $90: $2.95
